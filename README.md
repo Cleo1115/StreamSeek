@@ -53,18 +53,19 @@ StreamSeek+ is a full-stack web application designed to enhance the way users di
 
 ### Main Interface
 The main interface shows a variety of popular Twitch streams and allows users to quickly toggle between Streams, Videos, and Clips.
+<img width="1397" alt="Pasted Graphic 67" src="https://github.com/user-attachments/assets/4784b36e-8d28-4de1-aae9-b9bb20ebb0fb">
 
 ### Detailed View of Streams
 This screenshot depicts a detailed view of available streams under the "Streams" tab, highlighting the ease of access to popular game streams.
-![Detailed View of Streams](/screenshots/detailed_view_streams.png)
+<img width="893" alt="Pasted Graphic 72" src="https://github.com/user-attachments/assets/c5c314aa-1e0b-4b2c-af84-686df81dfc18">
 
 ### My Favorites
 In the 'My Favorites' tab, users can view and manage their favorite streams, videos, and clips, showcasing the app's personalized content management.
-![My Favorites](/screenshots/my_favorites.png)
+<img width="1399" alt="Pasted Graphic 71" src="https://github.com/user-attachments/assets/cf7946c9-209d-4415-84c0-3d3e534ba8ab">
 
 ### User Login Modal
 This image shows the login modal window where users can securely log in to access personalized features.
-![Login Modal](/screenshots/login_modal.png)
+<img width="1005" alt="Pasted Graphic 70" src="https://github.com/user-attachments/assets/9e32efa7-3868-43af-aeb3-dbd82bc9a685">
 
 ### Stream Categories
 Here we see the variety of stream categories available, allowing users to explore content across different games and events.

@@ -71,9 +71,8 @@ This image shows the login modal window where users can securely log in to acces
 Here we see the variety of stream categories available, allowing users to explore content across different games and events.
 <img width="267" alt="Just Chatting" src="https://github.com/user-attachments/assets/07c5fc98-421a-4b6c-a4c6-4b618744f14f">
 
-## Twitch Integration
+### Twitch Integration
 StreamSeek+ allows users to directly access Twitch content by clicking on links within the app. This feature seamlessly connects users to live streams, videos, or clips on Twitch, enhancing their interactive experience.
-
 ### Direct Access Example
 Clicking on any content in our app, such as the screenshot shown below, will redirect you to Twitch where you can view the full video and engage further with the content.
 ![image](https://github.com/user-attachments/assets/26bcf0c8-c1e0-4fe1-aa16-883b6980c5ab)

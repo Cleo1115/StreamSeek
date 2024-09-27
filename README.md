@@ -9,6 +9,13 @@ StreamSeek+ is a full-stack web application designed to enhance the way users di
 - **Reliable Data Management**: Manages data storage with MySQL on Amazon RDS, ensuring robust data retrieval.
 - **Enhanced User Experience**: Deployed on Amazon EC2, featuring integrated user management for improved accessibility.
 
+## Technologies Used
+- **Frontend**: React.js, Ant Design
+- **Backend**: Java, Spring Boot
+- **Database**: MySQL, Amazon RDS
+- **Deployment**: Amazon EC2
+- **APIs**: Twitch API
+
 ## Detailed Features
 
 ### Personalized Content Discovery
@@ -34,13 +41,6 @@ StreamSeek+ is a full-stack web application designed to enhance the way users di
 ### Deployment and Scalability
 - **Cloud Deployment**: Leverages Amazon EC2 for high availability and scalability.
 - **Integrated User Management**: Features a comprehensive user management system to enhance personalization.
-
-## Technologies Used
-- **Frontend**: React.js, Ant Design
-- **Backend**: Java, Spring Boot
-- **Database**: MySQL, Amazon RDS
-- **Deployment**: Amazon EC2
-- **APIs**: Twitch API
 
 ## Screenshots
 

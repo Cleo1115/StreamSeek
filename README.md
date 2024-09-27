@@ -42,13 +42,6 @@ StreamSeek+ is a full-stack web application designed to enhance the way users di
 - **Deployment**: Amazon EC2
 - **APIs**: Twitch API
 
-## Getting Started
-
-### Prerequisites
-- Node.js
-- Java JDK 11+
-- MySQL
-
 ## Screenshots
 
 ### Main Interface
